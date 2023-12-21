@@ -1,6 +1,6 @@
 <h2><b>Hi there 👋</b></h2>
 <h5>
-- 🔭 I’m currently working on DevOps and Database Management 
+ - 🔭 I’m currently working on DevOps and Database Management 
 
 - 🌱 I’m currently learning Jenkins CI/CD
 
