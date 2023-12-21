@@ -1,14 +1,14 @@
-# Hi there 👋
+### Hi there 👋
 
-## 🔭 I’m currently working on DevOps and Database Management
+# 🔭 I’m currently working on DevOps and Database Management
 
-## 🌱 I’m currently learning Jenkins CI/CD
+# 🌱 I’m currently learning Jenkins CI/CD
 
-## 👯 Seeking collaboration on DevOps best practices
+# 👯 Seeking collaboration on DevOps best practices
 
-## 💬 Ask me about database, networking, or Docker
+# 💬 Ask me about database, networking, or Docker
 
-## 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rishu-prasad-60b33a23b)
+# 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rishu-prasad-60b33a23b)
 
 ## Skills Learned:
 
