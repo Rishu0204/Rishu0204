@@ -5,8 +5,8 @@
 - 👯 Seeking collaboration on DevOps best practices
 - 💬 Ask me about database, networking or dockers
 - 📫 reach me on linkedin @ www.linkedin.com/in/rishu-prasad-60b33a23b 
-
-- **Git Stats:**
+<h4>
+- **Git Stats:**</h4>
 
 
 
@@ -18,8 +18,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishu0204&layout=donut)](https://github.com/Rishu0204/github-readme-stats)
-
-- **Top Repositories:**
+<h4>
+- **Top Repositories:**</h4>
 
 
 
