@@ -6,7 +6,7 @@
 - 💬 Ask me about database, networking or dockers
 - 📫 reach me on linkedin @ www.linkedin.com/in/rishu-prasad-60b33a23b 
 
-- Git Stats:
+- **Git Stats:**
 
 
 
@@ -19,7 +19,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishu0204&layout=donut)](https://github.com/Rishu0204/github-readme-stats)
 
-- Top Repositories:
+- **Top Repositories:**
 
 
 
