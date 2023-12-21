@@ -8,4 +8,4 @@
 
 
 ![Rishu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishu0204&show_icons=true&theme=radical)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishu0204&layout=donut)](https://github.com/Rishu0204/github-readme-stats)
