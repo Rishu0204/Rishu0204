@@ -12,7 +12,9 @@
 
 </h5>
 <h2><b>Skills Learned </b></h2>
-[![](https://visitcount.itsvg.in/api?id=Rishu0204&label=python=4&icon=1&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Rishu0204&label=Python&color=4&icon=1&pretty=true" />
+</a>
 <h2><b>Git Stats:</b></h2>
 
 
