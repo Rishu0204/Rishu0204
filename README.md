@@ -11,6 +11,8 @@
 - 📫 reach me on linkedin @ www.linkedin.com/in/rishu-prasad-60b33a23b 
 
 </h5>
+<h2><b>Skills Learned </b></h2>
+[![](https://visitcount.itsvg.in/api?id=Rishu0204&label=python=4&icon=1&pretty=true)](https://visitcount.itsvg.in)
 <h2><b>Git Stats:</b></h2>
 
 
