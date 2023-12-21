@@ -11,16 +11,40 @@
 - 📫 reach me on linkedin @ www.linkedin.com/in/rishu-prasad-60b33a23b 
 
 </h5>
-[![](https://visitcount.itsvg.in/api?id=Rishu0204&label=Python&color=4&pretty=true)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=Rishu0204&label=Docker&color=4&pretty=true)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=Rishu0204&label=c%2B%2B&color=4&pretty=true)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=Rishu0204&label=Javascript&color=4&pretty=true)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=Rishu0204&label=Shell%20Scripting&color=4&pretty=true)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=Rishu0204&label=Socket%20Programming&color=4&pretty=true)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=Rishu0204&label=Linux&color=4&pretty=true)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=Rishu0204&label=css&color=4&pretty=true)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=Rishu0204&label=Jenkins&color=4&pretty=true)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=Rishu0204&label=MySql&color=4&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Rishu0204&label=Python&color=4&pretty=true" />
+</a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Rishu0204&label=Docker&color=4&pretty=true" />
+</a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Rishu0204&label=c%2B%2B&color=4&pretty=true" />
+</a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Rishu0204&label=Javascript&color=4&pretty=true" />
+</a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Rishu0204&label=Shell%20Scripting&color=4&pretty=true" />
+</a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Rishu0204&label=Socket%20Programming&color=4&pretty=true" />
+</a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Rishu0204&label=Linux&color=4&pretty=true" />
+</a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Rishu0204&label=css&color=4&pretty=true" />
+</a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Rishu0204&label=Jenkins&color=4&pretty=true" />
+</a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Rishu0204&label=MySql&color=4&pretty=true" />
+</a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Rishu0204&label=HTML&color=4&pretty=true" />
+</a>
+
 <h2><b>Git Stats:</b></h2>
 
 
