@@ -20,7 +20,6 @@
 [![Socket Programming](https://visitcount.itsvg.in/api?id=Rishu0204&label=Socket%20Programming&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
 [![Linux](https://visitcount.itsvg.in/api?id=Rishu0204&label=Linux&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
 [![CSS](https://visitcount.itsvg.in/api?id=Rishu0204&label=css&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
-[![Jenkins](https://visitcount.itsvg.in/api?id=Rishu0204&label=Jenkins&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
 [![MySQL](https://visitcount.itsvg.in/api?id=Rishu0204&label=MySql&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
 [![HTML](https://visitcount.itsvg.in/api?id=Rishu0204&label=HTML&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
 
