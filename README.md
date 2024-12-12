@@ -27,6 +27,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rishu0204&repo=mysql_using_python)](https://github.com/Rishu0204/mysql_using_python)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rishu0204&repo=python_projects)](https://github.com/Rishu0204/python_projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rishu0204&repo=Data_Analytics)](https://github.com/Rishu0204/Data_Analytics)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rishu0204&repo=cold-email-generator)](https://github.com/Rishu0204/cold-email-generator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rishu0204&repo=dsa)](https://github.com/Rishu0204/dsa)
 
