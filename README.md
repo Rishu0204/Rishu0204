@@ -2,7 +2,7 @@
 
 ### 🔭 I’m currently working on AI and LLMs
 
-### 💬 Ask me about database, LLM, or Data Bases
+### 💬 Ask me about database, LLM, or AI
 
 ### 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rishu-prasad-60b33a23b)
 
