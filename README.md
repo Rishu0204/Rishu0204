@@ -1,10 +1,8 @@
 # Hi there 👋
 
-### 🔭 I’m currently working on Data Analytics and Database Management
+### 🔭 I’m currently working on AI and LLMs
 
-### 👯 Seeking collaboration on Analytics best practices
-
-### 💬 Ask me about database, networking, or Data Analysis
+### 💬 Ask me about database, LLM, or Data Bases
 
 ### 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rishu-prasad-60b33a23b)
 
