@@ -8,15 +8,15 @@
 
 ## Skills Learned:
 
-[![Python](https://visitcount.itsvg.in/api?id=Rishu0204&label=Python&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
-[![LLM](https://visitcount.itsvg.in/api?id=Rishu0204&label=LLM&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
-[![AI](https://visitcount.itsvg.in/api?id=Rishu0204&label=AI&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
-[![ML](https://visitcount.itsvg.in/api?id=Rishu0204&label=ML&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
-[![Pandas](https://visitcount.itsvg.in/api?id=Rishu0204&label=Pandas&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
-[![Flask](https://visitcount.itsvg.in/api?id=Rishu0204&label=Flask&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
-[![MySQL](https://visitcount.itsvg.in/api?id=Rishu0204&label=MySql&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
-[![HTML](https://visitcount.itsvg.in/api?id=Rishu0204&label=HTML&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
-[![CSS](https://visitcount.itsvg.in/api?id=Rishu0204&label=CSS&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
+[Python](https://github.com/Rishu0204)
+[LLM](https://github.com/Rishu0204)
+[AI](https://github.com/Rishu0204)
+[ML](https://github.com/Rishu0204)
+[Pandas](https://github.com/Rishu0204)
+[![Flask](https://github.com/Rishu0204)
+[![MySQL](https://github.com/Rishu0204)
+[![HTML](https://github.com/Rishu0204)
+[![CSS](https://github.com/Rishu0204)
 
 
 ## Git Stats:
