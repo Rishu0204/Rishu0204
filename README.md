@@ -13,15 +13,15 @@
 [AI](https://github.com/Rishu0204)
 [ML](https://github.com/Rishu0204)
 [Pandas](https://github.com/Rishu0204)
-[![Flask](https://github.com/Rishu0204)
-[![MySQL](https://github.com/Rishu0204)
-[![HTML](https://github.com/Rishu0204)
-[![CSS](https://github.com/Rishu0204)
+[Flask](https://github.com/Rishu0204)
+[MySQL](https://github.com/Rishu0204)
+[HTML](https://github.com/Rishu0204)
+[CSS](https://github.com/Rishu0204)
 
 
 ## Git Stats:
 
-![Rishu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishu0204&show_icons=true&theme=radical&cache_seconds=1800) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishu0204&layout=donut&cache_seconds=10)](https://github.com/Rishu0204/github-readme-stats)
+![Rishu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishu0204&show_icons=true&theme=radical&cache_seconds=10) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishu0204&layout=donut&cache_seconds=10)](https://github.com/Rishu0204/github-readme-stats)
 
 ## Top Repositories:
 
