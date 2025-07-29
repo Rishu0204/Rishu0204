@@ -9,15 +9,15 @@
 ## Skills Learned:
 
 [![Python](https://visitcount.itsvg.in/api?id=Rishu0204&label=Python&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
-[![Docker](https://visitcount.itsvg.in/api?id=Rishu0204&label=Docker&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
-[![C++](https://visitcount.itsvg.in/api?id=Rishu0204&label=c%2B%2B&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
-[![JavaScript](https://visitcount.itsvg.in/api?id=Rishu0204&label=Javascript&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
-[![Shell Scripting](https://visitcount.itsvg.in/api?id=Rishu0204&label=Shell%20Scripting&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
-[![Socket Programming](https://visitcount.itsvg.in/api?id=Rishu0204&label=Socket%20Programming&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
-[![Linux](https://visitcount.itsvg.in/api?id=Rishu0204&label=Linux&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
-[![CSS](https://visitcount.itsvg.in/api?id=Rishu0204&label=css&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
+[![LLM](https://visitcount.itsvg.in/api?id=Rishu0204&label=LLM&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
+[![AI](https://visitcount.itsvg.in/api?id=Rishu0204&label=AI&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
+[![ML](https://visitcount.itsvg.in/api?id=Rishu0204&label=ML&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
+[![Pandas](https://visitcount.itsvg.in/api?id=Rishu0204&label=Pandas&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
+[![Flask](https://visitcount.itsvg.in/api?id=Rishu0204&label=Flask&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
 [![MySQL](https://visitcount.itsvg.in/api?id=Rishu0204&label=MySql&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
 [![HTML](https://visitcount.itsvg.in/api?id=Rishu0204&label=HTML&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
+[![CSS](https://visitcount.itsvg.in/api?id=Rishu0204&label=CSS&color=4&icon=2&pretty=true)](https://github.com/Rishu0204)
+
 
 ## Git Stats:
 
