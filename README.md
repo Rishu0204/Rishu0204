@@ -29,4 +29,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rishu0204&repo=python_projects)](https://github.com/Rishu0204/python_projects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rishu0204&repo=cold-email-generator)](https://github.com/Rishu0204/cold-email-generator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rishu0204&repo=dsa)](https://github.com/Rishu0204/dsa)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rishu0204&repo=Healthy-Heart-Prediction)](https://github.com/Rishu0204/Healthy-Heart-Prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rishu0204&repo=java)](https://github.com/Rishu0204/java)
